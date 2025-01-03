@@ -19,3 +19,10 @@ drwx-wxr-x  your  01/01/00:20  111asdasd
 drwx-wxr-x  your  01/01/00:00  Создать папку
 -rw-------  your  01/01/21:40  nano.48773.save
 ```
+```bash
+trash -c
+Корзина успешно очищена!
+
+trash -o
+Корзина пуста
+```
